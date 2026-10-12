@@ -1,0 +1,4 @@
+.server.pid
+node_modules/
+.DS_Store
+Thumbs.db
